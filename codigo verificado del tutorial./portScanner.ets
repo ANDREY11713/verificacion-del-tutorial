@@ -2,11 +2,7 @@ import router from '@ohos.router';
 import hilog from '@ohos.hilog';
 @Entry  
 @Component  
-  /* Colores:
-   * Color de fondo: 0d1321
-   * Color de letras: f0ebd8
-   * Color de botones: 3e5c76
-   * */
+ 
 
 export struct PortScanner { 
 
